@@ -1,1 +1,1 @@
-#codingbat-java solutions
+#codingbat-java
